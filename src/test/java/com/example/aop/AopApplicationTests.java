@@ -19,7 +19,7 @@ public class AopApplicationTests {
 
 	@Test
 	public void aop01() {
-		Integer integer = this.testService.method01(000);
+		Integer integer = this.testService.method01(69);
 		System.out.println(integer);
 	}
 
