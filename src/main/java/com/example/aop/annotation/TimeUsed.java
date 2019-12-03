@@ -14,7 +14,7 @@ import java.lang.annotation.Target;
 public @interface TimeUsed {
 
     /**
-     * 方法耗时
+     * 方法耗时 proj511
      *
      * @return {@link Long}
      */
